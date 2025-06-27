@@ -3,8 +3,8 @@ Many bioinformaticians toggle between Bioconductor/R and Biopython/Pandas. A dat
 
 🔬 R vs. Python: Who’s the k-mer king?
 
-I took a <b>16S rRNA FASTA file</b> constituting 18 sequences and ran two scripts:
-• R (Biostrings): 33.85 ms
+I took a <b>16S rRNA FASTA file</b> constituting 18 sequences and ran two scripts: <br>
+• R (Biostrings): 33.85 ms <br>
 • Python (BioPython + dict): 21.90 ms
 
 Python won by <b>~1.5×—surprising</b>, given Biostrings is C-optimized! The small 4⁴=256 k-mer space and Python’s lightweight timeit gave it the edge.
