@@ -15,7 +15,7 @@ Python won by <b>~1.5×—surprising</b>, given Biostrings is C-optimized! The s
 Which do you reach for in your pipelines? Drop your thoughts or benchmark tales!
 
 # Directory Structure
-benchmark_bio.pynb : Python notebook for benchmarking
-benchmark_bio.R : R script for benchmarking
-barchart.py : Assisted Bar chart fot Counting Runtimes
+benchmark_bio.pynb : Python notebook for benchmarking <br>
+benchmark_bio.R : R script for benchmarking <br>
+barchart.py : Assisted Bar chart fot Counting Runtimes <br>
 sequence.fasta : Test FASTA file used
